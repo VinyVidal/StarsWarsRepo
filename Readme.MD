@@ -1,5 +1,5 @@
 # Star Wars
 
-![~/logotipo.png](Star Wars ou Guerra nas Estrelas)
+![Star Wars](./logotipo.png)
 
 Tanto faz o texto que estiver aqui!!!
