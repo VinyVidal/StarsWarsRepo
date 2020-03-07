@@ -3,3 +3,6 @@ Darth Vader
 Obi Wan Kenobi
 Han Solo
 Mestre Oba
+
+Rey
+Finn
